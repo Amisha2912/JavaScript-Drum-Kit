@@ -10,7 +10,7 @@ This is a straightforward arcade-style game that can be played with a simple tap
 2) Visual Feedback: As you play, you'll receive visual feedback on the screen, giving you a real-time indication of the drum you're playing.
 3) User-Friendly Environment: The game's graphics are clean and simple, creating a user-friendly and visually appealing environment.
 
-### Project Structure:
+## Project Structure:
 
 HTML: The HTML file is responsible for the layout and structure of the game.<br>
 
